@@ -6,6 +6,10 @@ require 'json'
 require 'pry'
 
 get '/:country/:legislature' do |country_slug, legislature_slug|
+  redirect to("/#{country_slug}/#{legislature_slug}/persons/")
+end
+
+get '/:country/:legislature/persons/?' do |country_slug, legislature_slug|
   countries_json = JSON.parse(open('https://raw.githubusercontent.com/everypolitician/everypolitician-data/master/countries.json').read, symbolize_names: true)
   country = countries_json.find { |c| c[:slug] == country_slug }
   legislature = country[:legislatures].find { |l| l[:slug] == legislature_slug }
