@@ -4,6 +4,8 @@ require 'bundler/setup'
 require 'json'
 require 'open-uri'
 require 'csv_to_popolo'
+require 'active_support'
+require 'active_support/core_ext'
 
 countries = JSON.parse(open('https://raw.githubusercontent.com/everypolitician/everypolitician-data/master/countries.json').read, symbolize_names: true)
 
@@ -24,7 +26,8 @@ countries.each do |country|
     output << {
       country: country[:name],
       legislature: legislature[:name],
-      person_count: people.size,
+      slug: [country[:slug], legislature[:slug]].join('-').parameterize,
+      person_count: people.select { |p| !p[:end_date] }.size,
       people_with_contact_details: people.count { |p| !p[:email].to_s.empty? },
       url: "https://fake-popit.herokuapp.com/#{country[:slug]}/#{legislature[:slug]}"
     }
