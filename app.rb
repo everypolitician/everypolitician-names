@@ -27,7 +27,7 @@ get '/:country/:legislature/persons/?' do |country_slug, legislature_slug|
     person[:contact_details] ||= []
     person
   end
-  content_type :json
+  content_type 'application/json; charset=utf-8'
   JSON.pretty_generate(
     total: people.size,
     page: 1,
