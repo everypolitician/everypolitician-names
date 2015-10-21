@@ -20,6 +20,7 @@ get '/:country/:legislature' do |country_slug, legislature_slug|
   people = popolo[:persons]
   people = people.map do |person|
     person[:memberships] = popolo[:memberships].find_all { |m| m[:person_id] == person[:id] }
+    person[:contact_details] ||= []
     person
   end
   content_type :json
