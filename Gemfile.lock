@@ -1,0 +1,37 @@
+GIT
+  remote: git://github.com/tmtmtmtm/csv_to_popolo.git
+  revision: b5985ec2708b94ed3aa95939494b37b7dc732b35
+  specs:
+    csv_to_popolo (0.13.0)
+      json
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    coderay (1.1.0)
+    json (1.8.3)
+    method_source (0.8.2)
+    pry (0.10.3)
+      coderay (~> 1.1.0)
+      method_source (~> 0.8.1)
+      slop (~> 3.4)
+    rack (1.6.4)
+    rack-protection (1.5.3)
+      rack
+    sinatra (1.4.6)
+      rack (~> 1.4)
+      rack-protection (~> 1.4)
+      tilt (>= 1.3, < 3)
+    slop (3.6.0)
+    tilt (2.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  csv_to_popolo!
+  pry
+  sinatra
+
+BUNDLED WITH
+   1.10.6
