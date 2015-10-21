@@ -1,0 +1,34 @@
+#!/usr/bin/env ruby
+require 'bundler/setup'
+
+require 'json'
+require 'open-uri'
+require 'csv_to_popolo'
+
+countries = JSON.parse(open('https://raw.githubusercontent.com/everypolitician/everypolitician-data/master/countries.json').read, symbolize_names: true)
+
+output = []
+
+countries.each do |country|
+  country[:legislatures].each do |legislature|
+    warn "#{country[:name]} - #{legislature[:name]}"
+    legislative_period = legislature[:legislative_periods].first
+    csv = 'https://raw.githubusercontent.com/everypolitician/everypolitician-data/master/' + legislative_period[:csv]
+    popolo = nil
+    Dir.mktmpdir do |dir|
+      csv_file = File.join(dir, 'out.csv')
+      File.write(csv_file, open(csv).read)
+      popolo = Popolo::CSV.new(csv_file).data
+    end
+    people = popolo[:persons]
+    output << {
+      country: country[:name],
+      legislature: legislature[:name],
+      person_count: people.size,
+      people_with_contact_details: people.count { |p| !p[:email].to_s.empty? },
+      url: "https://fake-popit.herokuapp.com/#{country[:slug]}/#{legislature[:slug]}"
+    }
+  end
+end
+
+puts JSON.pretty_generate(output)
