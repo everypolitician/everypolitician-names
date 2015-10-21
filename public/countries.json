@@ -2,6 +2,7 @@
   {
     "country": "Abkhazia",
     "legislature": "People's Assembly",
+    "slug": "abkhazia-assembly",
     "person_count": 29,
     "people_with_contact_details": 26,
     "url": "https://fake-popit.herokuapp.com/Abkhazia/Assembly"
@@ -9,6 +10,7 @@
   {
     "country": "Afghanistan",
     "legislature": "Wolesi Jirga",
+    "slug": "afghanistan-wolesi-jirga",
     "person_count": 228,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Afghanistan/Wolesi-Jirga"
@@ -16,6 +18,7 @@
   {
     "country": "Albania",
     "legislature": "Kuvendi",
+    "slug": "albania-assembly",
     "person_count": 138,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Albania/Assembly"
@@ -23,6 +26,7 @@
   {
     "country": "Alderney",
     "legislature": "States",
+    "slug": "alderney-states",
     "person_count": 10,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Alderney/States"
@@ -30,6 +34,7 @@
   {
     "country": "Algeria",
     "legislature": "People's National Assembly",
+    "slug": "algeria-majlis",
     "person_count": 478,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Algeria/Majlis"
@@ -37,6 +42,7 @@
   {
     "country": "American Samoa",
     "legislature": "House of Representatives",
+    "slug": "american-samoa-house",
     "person_count": 16,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/American-Samoa/House"
@@ -44,6 +50,7 @@
   {
     "country": "Andorra",
     "legislature": "Consell General",
+    "slug": "andorra-general-council",
     "person_count": 28,
     "people_with_contact_details": 28,
     "url": "https://fake-popit.herokuapp.com/Andorra/General-Council"
@@ -51,6 +58,7 @@
   {
     "country": "Angola",
     "legislature": "National Assembly",
+    "slug": "angola-national-assembly",
     "person_count": 216,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Angola/National-Assembly"
@@ -58,6 +66,7 @@
   {
     "country": "Anguilla",
     "legislature": "House of Assembly",
+    "slug": "anguilla-assembly",
     "person_count": 7,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Anguilla/Assembly"
@@ -65,6 +74,7 @@
   {
     "country": "Antigua and Barbuda",
     "legislature": "House of Representatives",
+    "slug": "antigua-and-barbuda-representatives",
     "person_count": 17,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Antigua-and-Barbuda/Representatives"
@@ -72,6 +82,7 @@
   {
     "country": "Argentina",
     "legislature": "Cámara de Diputados",
+    "slug": "argentina-diputados",
     "person_count": 257,
     "people_with_contact_details": 257,
     "url": "https://fake-popit.herokuapp.com/Argentina/Diputados"
@@ -79,6 +90,7 @@
   {
     "country": "Armenia",
     "legislature": "National Assembly",
+    "slug": "armenia-assembly",
     "person_count": 130,
     "people_with_contact_details": 87,
     "url": "https://fake-popit.herokuapp.com/Armenia/Assembly"
@@ -86,6 +98,7 @@
   {
     "country": "Aruba",
     "legislature": "Estates of Aruba",
+    "slug": "aruba-estates",
     "person_count": 21,
     "people_with_contact_details": 11,
     "url": "https://fake-popit.herokuapp.com/Aruba/Estates"
@@ -93,6 +106,7 @@
   {
     "country": "Australia",
     "legislature": "House of Representatives",
+    "slug": "australia-representatives",
     "person_count": 152,
     "people_with_contact_details": 111,
     "url": "https://fake-popit.herokuapp.com/Australia/Representatives"
@@ -100,6 +114,7 @@
   {
     "country": "Australia",
     "legislature": "Senate",
+    "slug": "australia-senate",
     "person_count": 93,
     "people_with_contact_details": 53,
     "url": "https://fake-popit.herokuapp.com/Australia/Senate"
@@ -107,6 +122,7 @@
   {
     "country": "Austria",
     "legislature": "Nationalrat",
+    "slug": "austria-nationalrat",
     "person_count": 182,
     "people_with_contact_details": 170,
     "url": "https://fake-popit.herokuapp.com/Austria/Nationalrat"
@@ -114,6 +130,7 @@
   {
     "country": "Azerbaijan",
     "legislature": "National Assembly",
+    "slug": "azerbaijan-national-assembly",
     "person_count": 125,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Azerbaijan/National-Assembly"
@@ -121,6 +138,7 @@
   {
     "country": "Bahamas",
     "legislature": "House of Assembly",
+    "slug": "bahamas-house-of-assembly",
     "person_count": 38,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Bahamas/House-of-Assembly"
@@ -128,6 +146,7 @@
   {
     "country": "Bahrain",
     "legislature": "Council of Representatives",
+    "slug": "bahrain-council-of-representatives",
     "person_count": 40,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Bahrain/Council-of-Representatives"
@@ -135,6 +154,7 @@
   {
     "country": "Bangladesh",
     "legislature": "Jatiyo Sangshad",
+    "slug": "bangladesh-house",
     "person_count": 348,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Bangladesh/House"
@@ -142,6 +162,7 @@
   {
     "country": "Barbados",
     "legislature": "House of Assembly",
+    "slug": "barbados-house-of-assembly",
     "person_count": 30,
     "people_with_contact_details": 30,
     "url": "https://fake-popit.herokuapp.com/Barbados/House-of-Assembly"
@@ -149,6 +170,7 @@
   {
     "country": "Belarus",
     "legislature": "House of Representatives",
+    "slug": "belarus-chamber",
     "person_count": 109,
     "people_with_contact_details": 79,
     "url": "https://fake-popit.herokuapp.com/Belarus/Chamber"
@@ -156,6 +178,7 @@
   {
     "country": "Belgium",
     "legislature": "Chamber of Representatives",
+    "slug": "belgium-representatives",
     "person_count": 166,
     "people_with_contact_details": 150,
     "url": "https://fake-popit.herokuapp.com/Belgium/Representatives"
@@ -163,6 +186,7 @@
   {
     "country": "Belize",
     "legislature": "House of Representatives",
+    "slug": "belize-representatives",
     "person_count": 27,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Belize/Representatives"
@@ -170,6 +194,7 @@
   {
     "country": "Benin",
     "legislature": "Assemblée Nationale",
+    "slug": "benin-national-assembly",
     "person_count": 83,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Benin/National-Assembly"
@@ -177,6 +202,7 @@
   {
     "country": "Bermuda",
     "legislature": "Parliament",
+    "slug": "bermuda-assembly",
     "person_count": 36,
     "people_with_contact_details": 36,
     "url": "https://fake-popit.herokuapp.com/Bermuda/Assembly"
@@ -184,6 +210,7 @@
   {
     "country": "Bhutan",
     "legislature": "National Assembly",
+    "slug": "bhutan-assembly",
     "person_count": 47,
     "people_with_contact_details": 47,
     "url": "https://fake-popit.herokuapp.com/Bhutan/Assembly"
@@ -191,6 +218,7 @@
   {
     "country": "Bolivia",
     "legislature": "Chamber of Deputies",
+    "slug": "bolivia-deputies",
     "person_count": 128,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Bolivia/Deputies"
@@ -198,6 +226,7 @@
   {
     "country": "Bosnia and Herzegovina",
     "legislature": "House of Representatives",
+    "slug": "bosnia-and-herzegovina-house-of-representatives",
     "person_count": 42,
     "people_with_contact_details": 42,
     "url": "https://fake-popit.herokuapp.com/Bosnia-and-Herzegovina/House-of-Representatives"
@@ -205,6 +234,7 @@
   {
     "country": "Botswana",
     "legislature": "National Assembly",
+    "slug": "botswana-assembly",
     "person_count": 63,
     "people_with_contact_details": 10,
     "url": "https://fake-popit.herokuapp.com/Botswana/Assembly"
@@ -212,6 +242,7 @@
   {
     "country": "Brazil",
     "legislature": "Chamber of Deputies",
+    "slug": "brazil-deputies",
     "person_count": 513,
     "people_with_contact_details": 513,
     "url": "https://fake-popit.herokuapp.com/Brazil/Deputies"
@@ -219,6 +250,7 @@
   {
     "country": "British Virgin Islands",
     "legislature": "House of Assembly",
+    "slug": "british-virgin-islands-assembly",
     "person_count": 13,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/British-Virgin-Islands/Assembly"
@@ -226,6 +258,7 @@
   {
     "country": "British Virgin Islands",
     "legislature": "Legislative Council",
+    "slug": "british-virgin-islands-council",
     "person_count": 13,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/British-Virgin-Islands/Council"
@@ -233,6 +266,7 @@
   {
     "country": "Bulgaria",
     "legislature": "National Assembly",
+    "slug": "bulgaria-national-assembly",
     "person_count": 243,
     "people_with_contact_details": 233,
     "url": "https://fake-popit.herokuapp.com/Bulgaria/National-Assembly"
@@ -240,6 +274,7 @@
   {
     "country": "Burkina Faso",
     "legislature": "Assemblée Nationale",
+    "slug": "burkina-faso-assembly",
     "person_count": 126,
     "people_with_contact_details": 115,
     "url": "https://fake-popit.herokuapp.com/Burkina-Faso/Assembly"
@@ -247,6 +282,7 @@
   {
     "country": "Burundi",
     "legislature": "Assemblée nationale",
+    "slug": "burundi-assembly",
     "person_count": 121,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Burundi/Assembly"
@@ -254,6 +290,7 @@
   {
     "country": "Cabo Verde",
     "legislature": "Assembleia Nacional",
+    "slug": "cabo-verde-assembly",
     "person_count": 75,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Cabo-Verde/Assembly"
@@ -261,6 +298,7 @@
   {
     "country": "Cambodia",
     "legislature": "National Assembly",
+    "slug": "cambodia-national-assembly",
     "person_count": 123,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Cambodia/National-Assembly"
@@ -268,6 +306,7 @@
   {
     "country": "Cameroon",
     "legislature": "Assemblée Nationale",
+    "slug": "cameroon-assembly",
     "person_count": 111,
     "people_with_contact_details": 111,
     "url": "https://fake-popit.herokuapp.com/Cameroon/Assembly"
@@ -275,6 +314,7 @@
   {
     "country": "Cameroon",
     "legislature": "Sénat",
+    "slug": "cameroon-senate",
     "person_count": 100,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Cameroon/Senate"
@@ -282,6 +322,7 @@
   {
     "country": "Canada",
     "legislature": "House of Commons",
+    "slug": "canada-commons",
     "person_count": 305,
     "people_with_contact_details": 305,
     "url": "https://fake-popit.herokuapp.com/Canada/Commons"
@@ -289,6 +330,7 @@
   {
     "country": "Cayman Islands",
     "legislature": "Legislative Assembly",
+    "slug": "cayman-islands-legislative-assembly",
     "person_count": 18,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Cayman-Islands/Legislative-Assembly"
@@ -296,6 +338,7 @@
   {
     "country": "Chad",
     "legislature": "Assemblée Nationale",
+    "slug": "chad-assembly",
     "person_count": 191,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Chad/Assembly"
@@ -303,6 +346,7 @@
   {
     "country": "Chile",
     "legislature": "National Congress",
+    "slug": "chile-deputies",
     "person_count": 120,
     "people_with_contact_details": 120,
     "url": "https://fake-popit.herokuapp.com/Chile/Deputies"
@@ -310,6 +354,7 @@
   {
     "country": "China",
     "legislature": "National People’s Congress",
+    "slug": "china-congress",
     "person_count": 2956,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/China/Congress"
@@ -317,6 +362,7 @@
   {
     "country": "Colombia",
     "legislature": "Cámara de Representantes",
+    "slug": "colombia-representatives",
     "person_count": 165,
     "people_with_contact_details": 158,
     "url": "https://fake-popit.herokuapp.com/Colombia/Representatives"
@@ -324,6 +370,7 @@
   {
     "country": "Comoros",
     "legislature": "Assembly of the Union",
+    "slug": "comoros-assembly",
     "person_count": 24,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Comoros/Assembly"
@@ -331,6 +378,7 @@
   {
     "country": "Congo-Brazzaville",
     "legislature": "Assemblee Nationale",
+    "slug": "congo-brazzaville-assembly",
     "person_count": 122,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Congo-Brazzaville/Assembly"
@@ -338,6 +386,7 @@
   {
     "country": "Congo-Kinshasa (DRC)",
     "legislature": "National Assembly",
+    "slug": "congo-kinshasa-assembly",
     "person_count": 498,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Congo-Kinshasa/Assembly"
@@ -345,6 +394,7 @@
   {
     "country": "Cook Islands",
     "legislature": "Parliament",
+    "slug": "cook-islands-parliament",
     "person_count": 24,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Cook-Islands/Parliament"
@@ -352,6 +402,7 @@
   {
     "country": "Costa Rica",
     "legislature": "Legislative Assembly",
+    "slug": "costa-rica-assembly",
     "person_count": 56,
     "people_with_contact_details": 56,
     "url": "https://fake-popit.herokuapp.com/Costa-Rica/Assembly"
@@ -359,6 +410,7 @@
   {
     "country": "Croatia",
     "legislature": "Sabor",
+    "slug": "croatia-sabor",
     "person_count": 151,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Croatia/Sabor"
@@ -366,6 +418,7 @@
   {
     "country": "Curaçao",
     "legislature": "Estates of Curaçao",
+    "slug": "curacao-estates",
     "person_count": 21,
     "people_with_contact_details": 19,
     "url": "https://fake-popit.herokuapp.com/Curacao/Estates"
@@ -373,6 +426,7 @@
   {
     "country": "Cyprus",
     "legislature": "House of Representatives",
+    "slug": "cyprus-house-of-representatives",
     "person_count": 57,
     "people_with_contact_details": 57,
     "url": "https://fake-popit.herokuapp.com/Cyprus/House-of-Representatives"
@@ -380,6 +434,7 @@
   {
     "country": "Czech Republic",
     "legislature": "Chamber of Deputies",
+    "slug": "czech-republic-deputies",
     "person_count": 210,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Czech-Republic/Deputies"
@@ -387,6 +442,7 @@
   {
     "country": "Côte d'Ivoire",
     "legislature": "National Assembly",
+    "slug": "ivory-coast-assembly",
     "person_count": 241,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Ivory-Coast/Assembly"
@@ -394,6 +450,7 @@
   {
     "country": "Denmark",
     "legislature": "Folketing",
+    "slug": "denmark-folketing",
     "person_count": 180,
     "people_with_contact_details": 180,
     "url": "https://fake-popit.herokuapp.com/Denmark/Folketing"
@@ -401,6 +458,7 @@
   {
     "country": "Djibouti",
     "legislature": "National Assembly",
+    "slug": "djibouti-assembly",
     "person_count": 65,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Djibouti/Assembly"
@@ -408,6 +466,7 @@
   {
     "country": "Dominica",
     "legislature": "House of Assembly",
+    "slug": "dominica-house-of-assembly",
     "person_count": 21,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Dominica/House-of-Assembly"
@@ -415,6 +474,7 @@
   {
     "country": "Dominican Republic",
     "legislature": "Chamber of Deputies",
+    "slug": "dominican-republic-diputados",
     "person_count": 190,
     "people_with_contact_details": 186,
     "url": "https://fake-popit.herokuapp.com/Dominican-Republic/Diputados"
@@ -422,6 +482,7 @@
   {
     "country": "Ecuador",
     "legislature": "National Assembly",
+    "slug": "ecuador-asamblea",
     "person_count": 137,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Ecuador/Asamblea"
@@ -429,6 +490,7 @@
   {
     "country": "El Salvador",
     "legislature": "Legislative Assembly",
+    "slug": "el-salvador-legislative-assembly",
     "person_count": 84,
     "people_with_contact_details": 84,
     "url": "https://fake-popit.herokuapp.com/El-Salvador/Legislative-Assembly"
@@ -436,6 +498,7 @@
   {
     "country": "Estonia",
     "legislature": "Riigikogu",
+    "slug": "estonia-riigikogu",
     "person_count": 120,
     "people_with_contact_details": 116,
     "url": "https://fake-popit.herokuapp.com/Estonia/Riigikogu"
@@ -443,6 +506,7 @@
   {
     "country": "Falkland Islands",
     "legislature": "Legislative Assembly",
+    "slug": "falkland-islands-assembly",
     "person_count": 8,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Falkland-Islands/Assembly"
@@ -450,6 +514,7 @@
   {
     "country": "Faroe Islands",
     "legislature": "Løgting",
+    "slug": "faroe-islands-logting",
     "person_count": 33,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Faroe-Islands/Logting"
@@ -457,6 +522,7 @@
   {
     "country": "Fiji",
     "legislature": "Parliament",
+    "slug": "fiji-parliament",
     "person_count": 50,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Fiji/Parliament"
@@ -464,6 +530,7 @@
   {
     "country": "Finland",
     "legislature": "Eduskunta",
+    "slug": "finland-eduskunta",
     "person_count": 209,
     "people_with_contact_details": 198,
     "url": "https://fake-popit.herokuapp.com/Finland/Eduskunta"
@@ -471,6 +538,7 @@
   {
     "country": "France",
     "legislature": "Assemblée nationale",
+    "slug": "france-national-assembly",
     "person_count": 627,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/France/National-Assembly"
@@ -478,6 +546,7 @@
   {
     "country": "French Polynesia",
     "legislature": "Assembly",
+    "slug": "french-polynesia-assembly",
     "person_count": 57,
     "people_with_contact_details": 57,
     "url": "https://fake-popit.herokuapp.com/French-Polynesia/Assembly"
@@ -485,6 +554,7 @@
   {
     "country": "Gabon",
     "legislature": "Assemblée nationale",
+    "slug": "gabon-assembly",
     "person_count": 114,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Gabon/Assembly"
@@ -492,6 +562,7 @@
   {
     "country": "Gambia",
     "legislature": "National Assembly",
+    "slug": "gambia-national-assembly",
     "person_count": 53,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Gambia/National-Assembly"
@@ -499,6 +570,7 @@
   {
     "country": "Georgia",
     "legislature": "Parliament of Georgia",
+    "slug": "georgia-parliament",
     "person_count": 148,
     "people_with_contact_details": 137,
     "url": "https://fake-popit.herokuapp.com/Georgia/Parliament"
@@ -506,6 +578,7 @@
   {
     "country": "Germany",
     "legislature": "Bundestag",
+    "slug": "germany-bundestag",
     "person_count": 646,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Germany/Bundestag"
@@ -513,6 +586,7 @@
   {
     "country": "Ghana",
     "legislature": "Parliament",
+    "slug": "ghana-parliament",
     "person_count": 272,
     "people_with_contact_details": 26,
     "url": "https://fake-popit.herokuapp.com/Ghana/Parliament"
@@ -520,6 +594,7 @@
   {
     "country": "Gibraltar",
     "legislature": "Parliament",
+    "slug": "gibraltar-parliament",
     "person_count": 17,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Gibraltar/Parliament"
@@ -527,6 +602,7 @@
   {
     "country": "Greece",
     "legislature": "Hellenic Parliament",
+    "slug": "greece-parliament",
     "person_count": 300,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Greece/Parliament"
@@ -534,6 +610,7 @@
   {
     "country": "Greenland",
     "legislature": "Inatsisartut",
+    "slug": "greenland-inatsisartut",
     "person_count": 31,
     "people_with_contact_details": 31,
     "url": "https://fake-popit.herokuapp.com/Greenland/Inatsisartut"
@@ -541,6 +618,7 @@
   {
     "country": "Grenada",
     "legislature": "House of Representatives",
+    "slug": "grenada-house-of-representatives",
     "person_count": 15,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Grenada/House-of-Representatives"
@@ -548,6 +626,7 @@
   {
     "country": "Guam",
     "legislature": "Parliament",
+    "slug": "guam-parliament",
     "person_count": 15,
     "people_with_contact_details": 15,
     "url": "https://fake-popit.herokuapp.com/Guam/Parliament"
@@ -555,6 +634,7 @@
   {
     "country": "Guatemala",
     "legislature": "Congress",
+    "slug": "guatemala-congress",
     "person_count": 158,
     "people_with_contact_details": 158,
     "url": "https://fake-popit.herokuapp.com/Guatemala/Congress"
@@ -562,6 +642,7 @@
   {
     "country": "Guernsey",
     "legislature": "States",
+    "slug": "guernsey-states",
     "person_count": 47,
     "people_with_contact_details": 47,
     "url": "https://fake-popit.herokuapp.com/Guernsey/States"
@@ -569,6 +650,7 @@
   {
     "country": "Guinea-Bissau",
     "legislature": "National People's Assembly",
+    "slug": "guinea-bissau-assembly",
     "person_count": 100,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Guinea-Bissau/Assembly"
@@ -576,6 +658,7 @@
   {
     "country": "Guyana",
     "legislature": "National Assembly",
+    "slug": "guyana-national-assembly",
     "person_count": 54,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Guyana/National-Assembly"
@@ -583,6 +666,7 @@
   {
     "country": "Haiti",
     "legislature": "Chamber of Deputies",
+    "slug": "haiti-deputies",
     "person_count": 99,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Haiti/Deputies"
@@ -590,6 +674,7 @@
   {
     "country": "Honduras",
     "legislature": "National Congress",
+    "slug": "honduras-congreso-nacional",
     "person_count": 128,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Honduras/Congreso-Nacional"
@@ -597,6 +682,7 @@
   {
     "country": "Hong Kong",
     "legislature": "Legislative Council",
+    "slug": "hong-kong-legislative-council",
     "person_count": 70,
     "people_with_contact_details": 68,
     "url": "https://fake-popit.herokuapp.com/Hong-Kong/Legislative-Council"
@@ -604,6 +690,7 @@
   {
     "country": "Hungary",
     "legislature": "Országgyűlés",
+    "slug": "hungary-assembly",
     "person_count": 198,
     "people_with_contact_details": 197,
     "url": "https://fake-popit.herokuapp.com/Hungary/Assembly"
@@ -611,6 +698,7 @@
   {
     "country": "Iceland",
     "legislature": "Alþingi",
+    "slug": "iceland-assembly",
     "person_count": 45,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Iceland/Assembly"
@@ -618,6 +706,7 @@
   {
     "country": "India",
     "legislature": "Lok Sabha",
+    "slug": "india-lok-sabha",
     "person_count": 541,
     "people_with_contact_details": 511,
     "url": "https://fake-popit.herokuapp.com/India/Lok-Sabha"
@@ -625,6 +714,7 @@
   {
     "country": "Indonesia",
     "legislature": "Dewan Perwakilan Rakyat",
+    "slug": "indonesia-council",
     "person_count": 554,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Indonesia/Council"
@@ -632,6 +722,7 @@
   {
     "country": "Iran",
     "legislature": "Majles",
+    "slug": "iran-assembly",
     "person_count": 289,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Iran/Assembly"
@@ -639,6 +730,7 @@
   {
     "country": "Iraq",
     "legislature": "Council of Representatives",
+    "slug": "iraq-majlis",
     "person_count": 328,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Iraq/Majlis"
@@ -646,6 +738,7 @@
   {
     "country": "Ireland",
     "legislature": "Dáil Éireann",
+    "slug": "ireland-dail",
     "person_count": 166,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Ireland/Dail"
@@ -653,6 +746,7 @@
   {
     "country": "Isle of Man",
     "legislature": "House of Keys",
+    "slug": "isle-of-man-house-of-keys",
     "person_count": 24,
     "people_with_contact_details": 19,
     "url": "https://fake-popit.herokuapp.com/Isle-of-Man/House-of-Keys"
@@ -660,6 +754,7 @@
   {
     "country": "Israel",
     "legislature": "Knesset",
+    "slug": "israel-knesset",
     "person_count": 120,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Israel/Knesset"
@@ -667,6 +762,7 @@
   {
     "country": "Italy",
     "legislature": "House of Representatives",
+    "slug": "italy-house",
     "person_count": 663,
     "people_with_contact_details": 631,
     "url": "https://fake-popit.herokuapp.com/Italy/House"
@@ -674,6 +770,7 @@
   {
     "country": "Italy",
     "legislature": "Senate",
+    "slug": "italy-senate",
     "person_count": 322,
     "people_with_contact_details": 306,
     "url": "https://fake-popit.herokuapp.com/Italy/Senate"
@@ -681,6 +778,7 @@
   {
     "country": "Jamaica",
     "legislature": "House of Representatives",
+    "slug": "jamaica-house-of-representatives",
     "person_count": 63,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Jamaica/House-of-Representatives"
@@ -688,6 +786,7 @@
   {
     "country": "Japan",
     "legislature": "Shūgiin",
+    "slug": "japan-house-of-representatives",
     "person_count": 475,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Japan/House-of-Representatives"
@@ -695,6 +794,7 @@
   {
     "country": "Jersey",
     "legislature": "States",
+    "slug": "jersey-states",
     "person_count": 58,
     "people_with_contact_details": 56,
     "url": "https://fake-popit.herokuapp.com/Jersey/States"
@@ -702,6 +802,7 @@
   {
     "country": "Jordan",
     "legislature": "House of Representatives",
+    "slug": "jordan-house-of-representatives",
     "person_count": 150,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Jordan/House-of-Representatives"
@@ -709,6 +810,7 @@
   {
     "country": "Kazakhstan",
     "legislature": "Mazhilis",
+    "slug": "kazakhstan-assembly",
     "person_count": 107,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Kazakhstan/Assembly"
@@ -716,6 +818,7 @@
   {
     "country": "Kenya",
     "legislature": "National Assembly",
+    "slug": "kenya-assembly",
     "person_count": 350,
     "people_with_contact_details": 272,
     "url": "https://fake-popit.herokuapp.com/Kenya/Assembly"
@@ -723,6 +826,7 @@
   {
     "country": "Kiribati",
     "legislature": "Parliament",
+    "slug": "kiribati-parliament",
     "person_count": 45,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Kiribati/Parliament"
@@ -730,6 +834,7 @@
   {
     "country": "Kosovo",
     "legislature": "Kuvendit",
+    "slug": "kosovo-assembly",
     "person_count": 120,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Kosovo/Assembly"
@@ -737,6 +842,7 @@
   {
     "country": "Kuwait",
     "legislature": "National Assembly",
+    "slug": "kuwait-national-assembly",
     "person_count": 45,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Kuwait/National-Assembly"
@@ -744,6 +850,7 @@
   {
     "country": "Kyrgyzstan",
     "legislature": "Supreme Council",
+    "slug": "kyrgyzstan-council",
     "person_count": 120,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Kyrgyzstan/Council"
@@ -751,6 +858,7 @@
   {
     "country": "Laos",
     "legislature": "National Assembly",
+    "slug": "laos-assembly",
     "person_count": 132,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Laos/Assembly"
@@ -758,6 +866,7 @@
   {
     "country": "Latvia",
     "legislature": "Saeima",
+    "slug": "latvia-saeima",
     "person_count": 100,
     "people_with_contact_details": 100,
     "url": "https://fake-popit.herokuapp.com/Latvia/Saeima"
@@ -765,6 +874,7 @@
   {
     "country": "Lebanon",
     "legislature": "Parliament",
+    "slug": "lebanon-parliament",
     "person_count": 128,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Lebanon/Parliament"
@@ -772,6 +882,7 @@
   {
     "country": "Lesotho",
     "legislature": "National Assembly",
+    "slug": "lesotho-assembly",
     "person_count": 120,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Lesotho/Assembly"
@@ -779,6 +890,7 @@
   {
     "country": "Liberia",
     "legislature": "House of Representatives",
+    "slug": "liberia-house",
     "person_count": 73,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Liberia/House"
@@ -786,6 +898,7 @@
   {
     "country": "Libya",
     "legislature": "House of Representatives",
+    "slug": "libya-house-of-representatives",
     "person_count": 189,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Libya/House-of-Representatives"
@@ -793,6 +906,7 @@
   {
     "country": "Liechtenstein",
     "legislature": "Landtag",
+    "slug": "liechtenstein-landtag",
     "person_count": 25,
     "people_with_contact_details": 25,
     "url": "https://fake-popit.herokuapp.com/Liechtenstein/Landtag"
@@ -800,6 +914,7 @@
   {
     "country": "Lithuania",
     "legislature": "Seimas",
+    "slug": "lithuania-seimas",
     "person_count": 150,
     "people_with_contact_details": 141,
     "url": "https://fake-popit.herokuapp.com/Lithuania/Seimas"
@@ -807,6 +922,7 @@
   {
     "country": "Luxembourg",
     "legislature": "Chamber of Deputies",
+    "slug": "luxembourg-chamber",
     "person_count": 60,
     "people_with_contact_details": 60,
     "url": "https://fake-popit.herokuapp.com/Luxembourg/Chamber"
@@ -814,6 +930,7 @@
   {
     "country": "Macao",
     "legislature": "Legislative Assembly",
+    "slug": "macao-assembly",
     "person_count": 33,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Macao/Assembly"
@@ -821,6 +938,7 @@
   {
     "country": "Macedonia",
     "legislature": "Sobranie",
+    "slug": "macedonia-sobranie",
     "person_count": 91,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Macedonia/Sobranie"
@@ -828,6 +946,7 @@
   {
     "country": "Madagascar",
     "legislature": "National Assembly",
+    "slug": "madagascar-assembly",
     "person_count": 151,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Madagascar/Assembly"
@@ -835,6 +954,7 @@
   {
     "country": "Malawi",
     "legislature": "National Assembly",
+    "slug": "malawi-assembly",
     "person_count": 193,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Malawi/Assembly"
@@ -842,6 +962,7 @@
   {
     "country": "Malaysia",
     "legislature": "Dewan Rakyat",
+    "slug": "malaysia-dewan-rakyat",
     "person_count": 228,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Malaysia/Dewan-Rakyat"
@@ -849,6 +970,7 @@
   {
     "country": "Maldives",
     "legislature": "Majlis",
+    "slug": "maldives-majlis",
     "person_count": 85,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Maldives/Majlis"
@@ -856,6 +978,7 @@
   {
     "country": "Mali",
     "legislature": "National Assembly",
+    "slug": "mali-assembly",
     "person_count": 142,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Mali/Assembly"
@@ -863,6 +986,7 @@
   {
     "country": "Malta",
     "legislature": "Parliament",
+    "slug": "malta-assembly",
     "person_count": 69,
     "people_with_contact_details": 68,
     "url": "https://fake-popit.herokuapp.com/Malta/Assembly"
@@ -870,6 +994,7 @@
   {
     "country": "Marshall Islands",
     "legislature": "Nitijela",
+    "slug": "marshall-islands-nitijela",
     "person_count": 33,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Marshall-Islands/Nitijela"
@@ -877,6 +1002,7 @@
   {
     "country": "Mauritania",
     "legislature": "National Assembly",
+    "slug": "mauritania-national-assembly",
     "person_count": 147,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Mauritania/National-Assembly"
@@ -884,6 +1010,7 @@
   {
     "country": "Mauritius",
     "legislature": "National Assembly",
+    "slug": "mauritius-national-assembly",
     "person_count": 62,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Mauritius/National-Assembly"
@@ -891,6 +1018,7 @@
   {
     "country": "Mexico",
     "legislature": "Chamber of Deputies",
+    "slug": "mexico-deputies",
     "person_count": 498,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Mexico/Deputies"
@@ -898,6 +1026,7 @@
   {
     "country": "Micronesia",
     "legislature": "Congress",
+    "slug": "micronesia-congress",
     "person_count": 12,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Micronesia/Congress"
@@ -905,6 +1034,7 @@
   {
     "country": "Moldova",
     "legislature": "Parlament",
+    "slug": "moldova-parlamentul",
     "person_count": 110,
     "people_with_contact_details": 43,
     "url": "https://fake-popit.herokuapp.com/Moldova/Parlamentul"
@@ -912,6 +1042,7 @@
   {
     "country": "Monaco",
     "legislature": "National Council",
+    "slug": "monaco-council",
     "person_count": 24,
     "people_with_contact_details": 24,
     "url": "https://fake-popit.herokuapp.com/Monaco/Council"
@@ -919,6 +1050,7 @@
   {
     "country": "Mongolia",
     "legislature": "State Great Khural",
+    "slug": "mongolia-assembly",
     "person_count": 76,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Mongolia/Assembly"
@@ -926,6 +1058,7 @@
   {
     "country": "Montenegro",
     "legislature": "Skupština",
+    "slug": "montenegro-assembly",
     "person_count": 82,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Montenegro/Assembly"
@@ -933,6 +1066,7 @@
   {
     "country": "Montserrat",
     "legislature": "Legislative Assembly",
+    "slug": "montserrat-assembly",
     "person_count": 9,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Montserrat/Assembly"
@@ -940,6 +1074,7 @@
   {
     "country": "Morocco",
     "legislature": "House of Representatives",
+    "slug": "morocco-house",
     "person_count": 395,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Morocco/House"
@@ -947,6 +1082,7 @@
   {
     "country": "Mozambique",
     "legislature": "Assembleia da República",
+    "slug": "mozambique-assembly",
     "person_count": 250,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Mozambique/Assembly"
@@ -954,6 +1090,7 @@
   {
     "country": "Myanmar",
     "legislature": "House of Representatives",
+    "slug": "myanmar-house-of-representatives",
     "person_count": 314,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Myanmar/House-of-Representatives"
@@ -961,6 +1098,7 @@
   {
     "country": "Nagorno-Karabakh",
     "legislature": "National Assembly",
+    "slug": "nagorno-karabakh-assembly",
     "person_count": 33,
     "people_with_contact_details": 20,
     "url": "https://fake-popit.herokuapp.com/Nagorno-Karabakh/Assembly"
@@ -968,6 +1106,7 @@
   {
     "country": "Namibia",
     "legislature": "National Assembly",
+    "slug": "namibia-assembly",
     "person_count": 101,
     "people_with_contact_details": 30,
     "url": "https://fake-popit.herokuapp.com/Namibia/Assembly"
@@ -975,6 +1114,7 @@
   {
     "country": "Namibia",
     "legislature": "National Council",
+    "slug": "namibia-council",
     "person_count": 27,
     "people_with_contact_details": 26,
     "url": "https://fake-popit.herokuapp.com/Namibia/Council"
@@ -982,6 +1122,7 @@
   {
     "country": "Nauru",
     "legislature": "Parliament",
+    "slug": "nauru-parliament",
     "person_count": 19,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Nauru/Parliament"
@@ -989,6 +1130,7 @@
   {
     "country": "Nepal",
     "legislature": "Constituent Assembly",
+    "slug": "nepal-assembly",
     "person_count": 550,
     "people_with_contact_details": 272,
     "url": "https://fake-popit.herokuapp.com/Nepal/Assembly"
@@ -996,6 +1138,7 @@
   {
     "country": "Netherlands",
     "legislature": "Tweede Kamer",
+    "slug": "netherlands-house-of-representatives",
     "person_count": 151,
     "people_with_contact_details": 151,
     "url": "https://fake-popit.herokuapp.com/Netherlands/House-of-Representatives"
@@ -1003,6 +1146,7 @@
   {
     "country": "New Caledonia",
     "legislature": "Congress",
+    "slug": "new-caledonia-congress",
     "person_count": 54,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/New-Caledonia/Congress"
@@ -1010,6 +1154,7 @@
   {
     "country": "New Zealand",
     "legislature": "New Zealand Parliament",
+    "slug": "new-zealand-house",
     "person_count": 121,
     "people_with_contact_details": 121,
     "url": "https://fake-popit.herokuapp.com/New-Zealand/House"
@@ -1017,6 +1162,7 @@
   {
     "country": "Nicaragua",
     "legislature": "National Assembly",
+    "slug": "nicaragua-asamblea",
     "person_count": 90,
     "people_with_contact_details": 86,
     "url": "https://fake-popit.herokuapp.com/Nicaragua/Asamblea"
@@ -1024,6 +1170,7 @@
   {
     "country": "Niger",
     "legislature": "Assemblée nationale",
+    "slug": "niger-assembly",
     "person_count": 113,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Niger/Assembly"
@@ -1031,6 +1178,7 @@
   {
     "country": "Nigeria",
     "legislature": "National Assembly",
+    "slug": "nigeria-assembly",
     "person_count": 362,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Nigeria/Assembly"
@@ -1038,6 +1186,7 @@
   {
     "country": "Niue",
     "legislature": "Assembly",
+    "slug": "niue-assembly",
     "person_count": 20,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Niue/Assembly"
@@ -1045,6 +1194,7 @@
   {
     "country": "Norfolk Island",
     "legislature": "Legislative Assembly",
+    "slug": "norfolk-island-assembly",
     "person_count": 9,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Norfolk-Island/Assembly"
@@ -1052,6 +1202,7 @@
   {
     "country": "North Korea",
     "legislature": "Supreme People’s Assembly",
+    "slug": "north-korea-national-assembly",
     "person_count": 687,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/North-Korea/National-Assembly"
@@ -1059,6 +1210,7 @@
   {
     "country": "Northern Cyprus",
     "legislature": "Assembly of the Republic",
+    "slug": "northern-cyprus-assembly",
     "person_count": 50,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Northern-Cyprus/Assembly"
@@ -1066,6 +1218,7 @@
   {
     "country": "Northern Ireland",
     "legislature": "Northern Ireland Assembly",
+    "slug": "northern-ireland-assembly",
     "person_count": 126,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Northern-Ireland/Assembly"
@@ -1073,6 +1226,7 @@
   {
     "country": "Northern Mariana Islands",
     "legislature": "House of Representatives",
+    "slug": "northern-mariana-islands-house",
     "person_count": 20,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Northern-Mariana-Islands/House"
@@ -1080,6 +1234,7 @@
   {
     "country": "Norway",
     "legislature": "Storting",
+    "slug": "norway-storting",
     "person_count": 169,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Norway/Storting"
@@ -1087,6 +1242,7 @@
   {
     "country": "Oman",
     "legislature": "Majlis al-Shura",
+    "slug": "oman-majlis",
     "person_count": 84,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Oman/Majlis"
@@ -1094,6 +1250,7 @@
   {
     "country": "Pakistan",
     "legislature": "National Assembly",
+    "slug": "pakistan-assembly",
     "person_count": 339,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Pakistan/Assembly"
@@ -1101,6 +1258,7 @@
   {
     "country": "Palau",
     "legislature": "House of Delegates",
+    "slug": "palau-house-of-delegates",
     "person_count": 16,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Palau/House-of-Delegates"
@@ -1108,6 +1266,7 @@
   {
     "country": "Panama",
     "legislature": "Cámara de Representantes",
+    "slug": "panama-assembly",
     "person_count": 71,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Panama/Assembly"
@@ -1115,6 +1274,7 @@
   {
     "country": "Papua New Guinea",
     "legislature": "National Parliament",
+    "slug": "papua-new-guinea-parliament",
     "person_count": 108,
     "people_with_contact_details": 60,
     "url": "https://fake-popit.herokuapp.com/Papua-New-Guinea/Parliament"
@@ -1122,6 +1282,7 @@
   {
     "country": "Paraguay",
     "legislature": "Chamber of Deputies",
+    "slug": "paraguay-deputies",
     "person_count": 80,
     "people_with_contact_details": 80,
     "url": "https://fake-popit.herokuapp.com/Paraguay/Deputies"
@@ -1129,6 +1290,7 @@
   {
     "country": "Peru",
     "legislature": "Congress",
+    "slug": "peru-congreso",
     "person_count": 127,
     "people_with_contact_details": 127,
     "url": "https://fake-popit.herokuapp.com/Peru/Congreso"
@@ -1136,6 +1298,7 @@
   {
     "country": "Philippines",
     "legislature": "House of Representatives",
+    "slug": "philippines-house",
     "person_count": 291,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Philippines/House"
@@ -1143,6 +1306,7 @@
   {
     "country": "Pitcairn",
     "legislature": "Island Council",
+    "slug": "pitcairn-island-council",
     "person_count": 5,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Pitcairn/Island-Council"
@@ -1150,6 +1314,7 @@
   {
     "country": "Poland",
     "legislature": "Sejm",
+    "slug": "poland-sejm",
     "person_count": 512,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Poland/Sejm"
@@ -1157,6 +1322,7 @@
   {
     "country": "Portugal",
     "legislature": "Assembleia da República",
+    "slug": "portugal-assembly",
     "person_count": 230,
     "people_with_contact_details": 73,
     "url": "https://fake-popit.herokuapp.com/Portugal/Assembly"
@@ -1164,6 +1330,7 @@
   {
     "country": "Puerto Rico",
     "legislature": "House of Representatives",
+    "slug": "puerto-rico-house-of-representatives",
     "person_count": 51,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Puerto-Rico/House-of-Representatives"
@@ -1171,6 +1338,7 @@
   {
     "country": "Romania",
     "legislature": "Chamber of Deputies",
+    "slug": "romania-deputies",
     "person_count": 417,
     "people_with_contact_details": 350,
     "url": "https://fake-popit.herokuapp.com/Romania/Deputies"
@@ -1178,6 +1346,7 @@
   {
     "country": "Russia",
     "legislature": "Duma",
+    "slug": "russia-duma",
     "person_count": 450,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Russia/Duma"
@@ -1185,6 +1354,7 @@
   {
     "country": "Rwanda",
     "legislature": "Chamber of Deputies",
+    "slug": "rwanda-deputies",
     "person_count": 77,
     "people_with_contact_details": 77,
     "url": "https://fake-popit.herokuapp.com/Rwanda/Deputies"
@@ -1192,6 +1362,7 @@
   {
     "country": "Saint Barthélemy",
     "legislature": "Territorial Council",
+    "slug": "saint-barthelemy-council",
     "person_count": 19,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Saint-Barthelemy/Council"
@@ -1199,6 +1370,7 @@
   {
     "country": "Saint Helena",
     "legislature": "Legislative Council",
+    "slug": "saint-helena-legislative-council",
     "person_count": 12,
     "people_with_contact_details": 7,
     "url": "https://fake-popit.herokuapp.com/Saint-Helena/Legislative-Council"
@@ -1206,6 +1378,7 @@
   {
     "country": "Saint Kitts and Nevis",
     "legislature": "National Assembly",
+    "slug": "saint-kitts-and-nevis-assembly",
     "person_count": 11,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Saint-Kitts-and-Nevis/Assembly"
@@ -1213,6 +1386,7 @@
   {
     "country": "Saint Lucia",
     "legislature": "House of Assembly",
+    "slug": "saint-lucia-assembly",
     "person_count": 17,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Saint-Lucia/Assembly"
@@ -1220,6 +1394,7 @@
   {
     "country": "Saint Martin",
     "legislature": "Territorial Council",
+    "slug": "saint-martin-council",
     "person_count": 23,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Saint-Martin/Council"
@@ -1227,6 +1402,7 @@
   {
     "country": "Saint Pierre and Miquelon",
     "legislature": "Territorial Council",
+    "slug": "saint-pierre-and-miquelon-territorial-council",
     "person_count": 19,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Saint-Pierre-and-Miquelon/Territorial-Council"
@@ -1234,6 +1410,7 @@
   {
     "country": "Saint Vincent and the Grenadines",
     "legislature": "House of Assembly",
+    "slug": "saint-vincent-and-the-grenadines-assembly",
     "person_count": 15,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Saint-Vincent-and-the-Grenadines/Assembly"
@@ -1241,6 +1418,7 @@
   {
     "country": "Samoa",
     "legislature": "Fono",
+    "slug": "samoa-parliament",
     "person_count": 49,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Samoa/Parliament"
@@ -1248,6 +1426,7 @@
   {
     "country": "San Marino",
     "legislature": "Grand and General Council",
+    "slug": "san-marino-council",
     "person_count": 60,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/San-Marino/Council"
@@ -1255,6 +1434,7 @@
   {
     "country": "Sark",
     "legislature": "Chief Pleas",
+    "slug": "sark-chief-pleas",
     "person_count": 29,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Sark/Chief-Pleas"
@@ -1262,6 +1442,7 @@
   {
     "country": "Saudi Arabia",
     "legislature": "Shura Council",
+    "slug": "saudi-arabia-shura",
     "person_count": 148,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Saudi-Arabia/Shura"
@@ -1269,6 +1450,7 @@
   {
     "country": "Scotland",
     "legislature": "Scottish Parliament",
+    "slug": "scotland-parliament",
     "person_count": 134,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Scotland/Parliament"
@@ -1276,6 +1458,7 @@
   {
     "country": "Senegal",
     "legislature": "National Assembly",
+    "slug": "senegal-assembly",
     "person_count": 149,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Senegal/Assembly"
@@ -1283,6 +1466,7 @@
   {
     "country": "Serbia",
     "legislature": "National Assembly",
+    "slug": "serbia-national-assembly",
     "person_count": 250,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Serbia/National-Assembly"
@@ -1290,6 +1474,7 @@
   {
     "country": "Seychelles",
     "legislature": "National Assembly",
+    "slug": "seychelles-assembly",
     "person_count": 32,
     "people_with_contact_details": 32,
     "url": "https://fake-popit.herokuapp.com/Seychelles/Assembly"
@@ -1297,6 +1482,7 @@
   {
     "country": "Sierra Leone",
     "legislature": "Parliament",
+    "slug": "sierra-leone-parliament",
     "person_count": 124,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Sierra-Leone/Parliament"
@@ -1304,6 +1490,7 @@
   {
     "country": "Singapore",
     "legislature": "Parliament",
+    "slug": "singapore-parliament",
     "person_count": 111,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Singapore/Parliament"
@@ -1311,6 +1498,7 @@
   {
     "country": "Sint Maarten",
     "legislature": "Estates",
+    "slug": "sint-maarten-estates",
     "person_count": 15,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Sint-Maarten/Estates"
@@ -1318,6 +1506,7 @@
   {
     "country": "Slovakia",
     "legislature": "National Council",
+    "slug": "slovakia-national-council",
     "person_count": 168,
     "people_with_contact_details": 158,
     "url": "https://fake-popit.herokuapp.com/Slovakia/National-Council"
@@ -1325,6 +1514,7 @@
   {
     "country": "Slovenia",
     "legislature": "Državni zbor",
+    "slug": "slovenia-national-assembly",
     "person_count": 90,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Slovenia/National-Assembly"
@@ -1332,6 +1522,7 @@
   {
     "country": "Solomon Islands",
     "legislature": "National Parliament",
+    "slug": "solomon-islands-parliament",
     "person_count": 50,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Solomon-Islands/Parliament"
@@ -1339,6 +1530,7 @@
   {
     "country": "Somalia",
     "legislature": "House of the People",
+    "slug": "somalia-lower",
     "person_count": 203,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Somalia/Lower"
@@ -1346,6 +1538,7 @@
   {
     "country": "South Africa",
     "legislature": "National Assembly",
+    "slug": "south-africa-assembly",
     "person_count": 391,
     "people_with_contact_details": 317,
     "url": "https://fake-popit.herokuapp.com/South-Africa/Assembly"
@@ -1353,6 +1546,7 @@
   {
     "country": "South Korea",
     "legislature": "National Assembly",
+    "slug": "south-korea-national-assembly",
     "person_count": 296,
     "people_with_contact_details": 280,
     "url": "https://fake-popit.herokuapp.com/South-Korea/National-Assembly"
@@ -1360,6 +1554,7 @@
   {
     "country": "South Ossetia",
     "legislature": "Parliament",
+    "slug": "south-ossetia-parliament",
     "person_count": 34,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/South-Ossetia/Parliament"
@@ -1367,6 +1562,7 @@
   {
     "country": "South Sudan",
     "legislature": "National Legislative Assembly",
+    "slug": "south-sudan-assembly",
     "person_count": 167,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/South-Sudan/Assembly"
@@ -1374,6 +1570,7 @@
   {
     "country": "Spain",
     "legislature": "Congreso de los Diputados",
+    "slug": "spain-congress",
     "person_count": 397,
     "people_with_contact_details": 256,
     "url": "https://fake-popit.herokuapp.com/Spain/Congress"
@@ -1381,6 +1578,7 @@
   {
     "country": "Sri Lanka",
     "legislature": "Parliament",
+    "slug": "sri-lanka-parliament",
     "person_count": 226,
     "people_with_contact_details": 214,
     "url": "https://fake-popit.herokuapp.com/Sri-Lanka/Parliament"
@@ -1388,6 +1586,7 @@
   {
     "country": "Suriname",
     "legislature": "National Assembly",
+    "slug": "suriname-assembly",
     "person_count": 51,
     "people_with_contact_details": 51,
     "url": "https://fake-popit.herokuapp.com/Suriname/Assembly"
@@ -1395,6 +1594,7 @@
   {
     "country": "Swaziland",
     "legislature": "House of Assembly",
+    "slug": "swaziland-assembly",
     "person_count": 54,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Swaziland/Assembly"
@@ -1402,6 +1602,7 @@
   {
     "country": "Sweden",
     "legislature": "Riksdag",
+    "slug": "sweden-riksdag",
     "person_count": 351,
     "people_with_contact_details": 351,
     "url": "https://fake-popit.herokuapp.com/Sweden/Riksdag"
@@ -1409,6 +1610,7 @@
   {
     "country": "Switzerland",
     "legislature": "National Council",
+    "slug": "switzerland-national-council",
     "person_count": 228,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Switzerland/National-Council"
@@ -1416,6 +1618,7 @@
   {
     "country": "Syria",
     "legislature": "People’s Council",
+    "slug": "syria-majlis",
     "person_count": 274,
     "people_with_contact_details": 59,
     "url": "https://fake-popit.herokuapp.com/Syria/Majlis"
@@ -1423,6 +1626,7 @@
   {
     "country": "Taiwan",
     "legislature": "Legislative Yuan",
+    "slug": "taiwan-legislative-yuan",
     "person_count": 111,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Taiwan/Legislative-Yuan"
@@ -1430,6 +1634,7 @@
   {
     "country": "Tajikistan",
     "legislature": "Assembly of Representatives",
+    "slug": "tajikistan-representatives",
     "person_count": 62,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Tajikistan/Representatives"
@@ -1437,6 +1642,7 @@
   {
     "country": "Tanzania",
     "legislature": "National Assembly",
+    "slug": "tanzania-assembly",
     "person_count": 350,
     "people_with_contact_details": 332,
     "url": "https://fake-popit.herokuapp.com/Tanzania/Assembly"
@@ -1444,6 +1650,7 @@
   {
     "country": "Thailand",
     "legislature": "National Legislative Assembly",
+    "slug": "thailand-national-legislative-assembly",
     "person_count": 218,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Thailand/National-Legislative-Assembly"
@@ -1451,6 +1658,7 @@
   {
     "country": "Timor Leste",
     "legislature": "Parlamento",
+    "slug": "timor-leste-parlamento",
     "person_count": 65,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Timor-Leste/Parlamento"
@@ -1458,6 +1666,7 @@
   {
     "country": "Togo",
     "legislature": "National Assembly",
+    "slug": "togo-assembly",
     "person_count": 90,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Togo/Assembly"
@@ -1465,6 +1674,7 @@
   {
     "country": "Tonga",
     "legislature": "Legislative Assembly",
+    "slug": "tonga-assembly",
     "person_count": 26,
     "people_with_contact_details": 13,
     "url": "https://fake-popit.herokuapp.com/Tonga/Assembly"
@@ -1472,6 +1682,7 @@
   {
     "country": "Transnistria",
     "legislature": "Supreme Council",
+    "slug": "transnistria-supreme-council",
     "person_count": 42,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Transnistria/Supreme-Council"
@@ -1479,6 +1690,7 @@
   {
     "country": "Tunisia",
     "legislature": "Assembly of the Representatives of the People",
+    "slug": "tunisia-majlis",
     "person_count": 217,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Tunisia/Majlis"
@@ -1486,6 +1698,7 @@
   {
     "country": "Turkey",
     "legislature": "Grand National Assembly",
+    "slug": "turkey-assembly",
     "person_count": 550,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Turkey/Assembly"
@@ -1493,6 +1706,7 @@
   {
     "country": "Turkmenistan",
     "legislature": "Mejlis",
+    "slug": "turkmenistan-mejlis",
     "person_count": 124,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Turkmenistan/Mejlis"
@@ -1500,6 +1714,7 @@
   {
     "country": "Turks and Caicos Islands",
     "legislature": "House of Assembly",
+    "slug": "turks-and-caicos-islands-assembly",
     "person_count": 18,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Turks-and-Caicos-Islands/Assembly"
@@ -1507,6 +1722,7 @@
   {
     "country": "Tuvalu",
     "legislature": "Parliament",
+    "slug": "tuvalu-parliament",
     "person_count": 15,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Tuvalu/Parliament"
@@ -1514,6 +1730,7 @@
   {
     "country": "US Virgin Islands",
     "legislature": "Legislature",
+    "slug": "us-virgin-islands-legislature",
     "person_count": 15,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/US-Virgin-Islands/Legislature"
@@ -1521,6 +1738,7 @@
   {
     "country": "Uganda",
     "legislature": "Parliament",
+    "slug": "uganda-parliament",
     "person_count": 385,
     "people_with_contact_details": 379,
     "url": "https://fake-popit.herokuapp.com/Uganda/Parliament"
@@ -1528,6 +1746,7 @@
   {
     "country": "Ukraine",
     "legislature": "Verkhovna Rada",
+    "slug": "ukraine-verkhovna-rada",
     "person_count": 441,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Ukraine/Verkhovna-Rada"
@@ -1535,6 +1754,7 @@
   {
     "country": "United Arab Emirates",
     "legislature": "Federal National Council",
+    "slug": "united-arab-emirates-federal-national-council",
     "person_count": 40,
     "people_with_contact_details": 40,
     "url": "https://fake-popit.herokuapp.com/United-Arab-Emirates/Federal-National-Council"
@@ -1542,6 +1762,7 @@
   {
     "country": "United Kingdom",
     "legislature": "House of Commons",
+    "slug": "uk-commons",
     "person_count": 650,
     "people_with_contact_details": 649,
     "url": "https://fake-popit.herokuapp.com/UK/Commons"
@@ -1549,6 +1770,7 @@
   {
     "country": "United States of America",
     "legislature": "House of Representatives",
+    "slug": "united-states-of-america-house",
     "person_count": 441,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/United-States-of-America/House"
@@ -1556,6 +1778,7 @@
   {
     "country": "United States of America",
     "legislature": "Senate",
+    "slug": "united-states-of-america-senate",
     "person_count": 100,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/United-States-of-America/Senate"
@@ -1563,6 +1786,7 @@
   {
     "country": "Uruguay",
     "legislature": "Chamber of Deputies",
+    "slug": "uruguay-deputies",
     "person_count": 106,
     "people_with_contact_details": 105,
     "url": "https://fake-popit.herokuapp.com/Uruguay/Deputies"
@@ -1570,6 +1794,7 @@
   {
     "country": "Uzbekistan",
     "legislature": "Legislative Chamber",
+    "slug": "uzbekistan-legislative-chamber",
     "person_count": 147,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Uzbekistan/Legislative-Chamber"
@@ -1577,6 +1802,7 @@
   {
     "country": "Vanuatu",
     "legislature": "Parliament",
+    "slug": "vanuatu-parliament",
     "person_count": 52,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Vanuatu/Parliament"
@@ -1584,6 +1810,7 @@
   {
     "country": "Vatican City",
     "legislature": "Pontifical Commission",
+    "slug": "vatican-city-pontifical-commission",
     "person_count": 7,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Vatican-City/Pontifical-Commission"
@@ -1591,6 +1818,7 @@
   {
     "country": "Venezuela",
     "legislature": "National Assembly",
+    "slug": "venezuela-assembly",
     "person_count": 162,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Venezuela/Assembly"
@@ -1598,6 +1826,7 @@
   {
     "country": "Vietnam",
     "legislature": "National Assembly",
+    "slug": "vietnam-national-assembly",
     "person_count": 492,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Vietnam/National-Assembly"
@@ -1605,6 +1834,7 @@
   {
     "country": "Wales",
     "legislature": "National Assembly for Wales",
+    "slug": "wales-assembly",
     "person_count": 60,
     "people_with_contact_details": 60,
     "url": "https://fake-popit.herokuapp.com/Wales/Assembly"
@@ -1612,6 +1842,7 @@
   {
     "country": "Wallis and Futuna",
     "legislature": "Territorial Assembly",
+    "slug": "wallis-and-futuna-territorial-assembly",
     "person_count": 20,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Wallis-and-Futuna/Territorial-Assembly"
@@ -1619,6 +1850,7 @@
   {
     "country": "Yemen",
     "legislature": "House of Representatives",
+    "slug": "yemen-majlis",
     "person_count": 302,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Yemen/Majlis"
@@ -1626,6 +1858,7 @@
   {
     "country": "Zambia",
     "legislature": "National Assembly",
+    "slug": "zambia-assembly",
     "person_count": 148,
     "people_with_contact_details": 132,
     "url": "https://fake-popit.herokuapp.com/Zambia/Assembly"
@@ -1633,6 +1866,7 @@
   {
     "country": "Zimbabwe",
     "legislature": "House of Assembly",
+    "slug": "zimbabwe-assembly",
     "person_count": 206,
     "people_with_contact_details": 0,
     "url": "https://fake-popit.herokuapp.com/Zimbabwe/Assembly"
@@ -1640,6 +1874,7 @@
   {
     "country": "Åland",
     "legislature": "Lagting",
+    "slug": "aland-lagting",
     "person_count": 30,
     "people_with_contact_details": 30,
     "url": "https://fake-popit.herokuapp.com/Aland/Lagting"
