@@ -55,7 +55,7 @@ class RebuildLegislatureFiles
             slug: [country[:slug], legislature[:slug]].join('-').parameterize,
             person_count: people.select { |p| !p[:end_date] }.size,
             people_with_contact_details: people.count { |p| !p[:email].to_s.empty? },
-            url: "https://fake-popit.herokuapp.com/#{country[:slug]}/#{legislature[:slug]}"
+            url: "http://everypolitician.github.io/everypolitician-writeinpublic/#{country[:slug]}/#{legislature[:slug]}"
           }
         end
       end
