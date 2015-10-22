@@ -66,4 +66,15 @@ end
 
 post '/event_handler' do
   RebuildLegislatureFiles.perform_async
+  'ok'
+end
+
+get '/:country/:legislature' do |country_slug, legislature_slug|
+  redirect to("/#{country_slug}/#{legislature_slug}/persons/")
+end
+
+get '/:country/:legislature/persons/?' do |country_slug, legislature_slug|
+  content_type 'application/json; charset=utf-8'
+  url_base = 'https://everypolitician.github.io/everypolitician-writeinpublic'
+  open(url_base + "/#{country_slug}/#{legislature_slug}/persons.json").read
 end
