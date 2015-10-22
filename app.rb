@@ -36,8 +36,7 @@ class RebuildLegislatureFiles
           legislature_json_file = File.join(
             country[:slug],
             legislature[:slug],
-            'persons',
-            'index.json'
+            'persons.json'
           )
           FileUtils.mkdir_p(File.dirname(legislature_json_file))
           File.write(
