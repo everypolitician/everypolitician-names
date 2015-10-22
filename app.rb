@@ -6,6 +6,7 @@ require 'open-uri'
 require 'json'
 require 'pry'
 require 'active_support/core_ext'
+require 'fileutils'
 
 class RebuildLegislatureFiles
   include Sidekiq::Worker
@@ -38,6 +39,7 @@ class RebuildLegislatureFiles
             'persons',
             'index.json'
           )
+          FileUtils.mkdir_p(File.dirname(legislature_json_file))
           File.write(
             legislature_json_file,
             JSON.pretty_generate(
