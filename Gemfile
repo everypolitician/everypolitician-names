@@ -1,9 +1,8 @@
 source 'https://rubygems.org'
 
-ruby '2.2.2'
+ruby '2.2.3'
 
 gem 'sinatra'
-gem 'csv_to_popolo', github: 'tmtmtmtm/csv_to_popolo'
 gem 'pry'
 gem 'puma'
 gem 'activesupport', require: 'active_support'
