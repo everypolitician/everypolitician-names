@@ -6,13 +6,6 @@ GIT
       git (~> 1.2)
       octokit (~> 4.1)
 
-GIT
-  remote: git://github.com/tmtmtmtm/csv_to_popolo.git
-  revision: b5985ec2708b94ed3aa95939494b37b7dc732b35
-  specs:
-    csv_to_popolo (0.13.0)
-      json
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -91,7 +84,6 @@ PLATFORMS
 
 DEPENDENCIES
   activesupport
-  csv_to_popolo!
   dotenv
   everypoliticianbot!
   pry
