@@ -25,14 +25,15 @@ class NameCsvGenerator
           c[:legislatures].each do |l|
             legislature_namefile = File.join(File.dirname(l[:popolo]), 'names.csv')
             warn legislature_namefile
-            CSV.foreach(legislature_namefile, headers: true) { |row| 
-              row['country'] = c[:slug]
-              row['legislature'] = l[:slug]
-              output_csv << row.values_at(*headers) 
-            }
+            legislature_names = open("https://raw.githubusercontent.com/everypolitician/everypolitician-data/master/#{legislature_namefile}").read
+            csv = CSV.new(legislature_names, headers: true, header_converters: :symbol)
+            csv.each do |row|
+              row[:country] = c[:slug]
+              row[:legislature] = l[:slug]
+              output_csv << row.values_at(*headers)
+            end
           end
         end
-        
       end
     end
   end
