@@ -18,6 +18,7 @@ class NameCsvGenerator
       countries = JSON.parse(open('https://raw.githubusercontent.com/everypolitician/everypolitician-data/master/countries.json').read, symbolize_names: true)
 
       CSV.open('names.csv','w') do |output_csv|
+        headers = [:id, :name, :country, :legislature]
         output_csv << headers
 
         countries.each do |c|
