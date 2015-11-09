@@ -45,5 +45,5 @@ post '/' do
 end
 
 get '/' do
-  'hello world'
+  'This is everypolitician-names, waiting to receive a webhook POST request to this URL.'
 end
