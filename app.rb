@@ -12,10 +12,10 @@ class NameCsvGenerator
   include Sidekiq::Worker
   include Everypoliticianbot::Github
 
-  def perform
+  def perform(countries_json_url)
     with_git_repo('everypolitician/everypolitician-names', branch: 'gh-pages', message: 'Update names.csv') do
 
-      countries = JSON.parse(open('https://raw.githubusercontent.com/everypolitician/everypolitician-data/master/countries.json').read, symbolize_names: true)
+      countries = JSON.parse(open(countries_json_url).read, symbolize_names: true)
 
       CSV.open('names.csv','w') do |output_csv|
         headers = [:id, :name, :country, :legislature]
@@ -40,8 +40,15 @@ class NameCsvGenerator
 end
 
 post '/' do
-  NameCsvGenerator.perform_async
-  'ok'
+  everypolitician_event = request.env['HTTP_X_EVERYPOLITICIAN_EVENT']
+  if everypolitician_event == 'pull_request_merged'
+    request.body.rewind
+    payload = JSON.parse(request.body.read, symbolize_names: true)
+    job_id = NameCsvGenerator.perform_async(payload[:countries_json_url])
+    "Queued job #{job_id}"
+  else
+    "Unhandled event #{everypolitician_event}"
+  end
 end
 
 get '/' do
