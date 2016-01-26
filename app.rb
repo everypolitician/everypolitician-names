@@ -40,8 +40,13 @@ class NameCsvGenerator
 end
 
 post '/' do
-  NameCsvGenerator.perform_async
-  'ok'
+  everypolitician_event = request.env['HTTP_X_EVERYPOLITICIAN_EVENT']
+  if everypolitician_event == 'pull_request_merged'
+    job_id = NameCsvGenerator.perform_async
+    "Queued job #{job_id}"
+  else
+    "Unhandled event #{everypolitician_event}"
+  end
 end
 
 get '/' do
