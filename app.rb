@@ -7,6 +7,7 @@ require 'json'
 require 'pry'
 require 'active_support/core_ext'
 require 'fileutils'
+require 'csv'
 
 class NameCsvGenerator
   include Sidekiq::Worker
