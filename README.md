@@ -12,6 +12,8 @@ The file of names is published here:
  
 That file is actually `names.csv` in the `gh_pages` branch of *this* repo.
 
+The EveryPoliticianBot has [blogged about `everypolitician-names`](https://medium.com/@everypolitician/i-make-lists-of-humans-names-4b061212baf3).
+
 ## What's in names.csv?
 
 All the politicians' names that are in the EveryPolitician data. Some
