@@ -51,7 +51,7 @@ published in GitHub pages. Yeah.
 
 First you'll need make sure you've got a couple of system packages installed:
 
-- ruby >= 2.0.0 (`brew install ruby` on a mac)
+- ruby >= 2.2.3 (`brew install ruby` on a mac)
 - redis (`brew install redis` on a mac)
 
 Then you'll need to install some required gems:
